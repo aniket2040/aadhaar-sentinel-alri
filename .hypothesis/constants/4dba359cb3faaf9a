@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\storage\__init__.py
+# hypothesis_version: 6.150.0
+
+['ALRIRecord', 'ALRISerializer', 'ALRIStorage', 'SerializationError', 'StorageError']

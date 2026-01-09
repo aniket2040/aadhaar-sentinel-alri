@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\etl\aggregator.py
+# hypothesis_version: 6.150.0
+
+['baseline_max', 'baseline_mean', 'baseline_min', 'baseline_std', 'count', 'district', 'max', 'mean', 'min', 'month', 'month_count', 'nunique', 'pincode', 'pincode_count', 'record_count', 'state', 'std', 'sum', 'total', 'year']

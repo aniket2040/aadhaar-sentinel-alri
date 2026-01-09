@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\explainability\reason_codes.py
+# hypothesis_version: 6.150.0
+
+[0.0, 0.25, 0.5, 0.75, 'ALRIResult', 'Anomalous_Data_Entry', 'Critical', 'High', 'High_Address_Churn', 'Low', 'Low_Child_Enrolment', 'Medium', 'anomaly', 'biometric', 'code', 'coverage', 'critical', 'description', 'high', 'instability', 'low', 'medium']

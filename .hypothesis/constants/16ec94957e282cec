@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\forecasting\forecaster.py
+# hypothesis_version: 6.150.0
+
+[0.05, 0.95, 'MS', 'cmdstanpy', 'count', 'date', 'decreasing', 'ds', 'enrollment', 'increasing', 'month', 'prophet', 'stable', 'total', 'value', 'y', 'year', 'yhat', 'yhat_lower', 'yhat_upper']

@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\etl\data_loader.py
+# hypothesis_version: 6.150.0
+
+['biometric', 'coerce', 'day', 'demographic', 'district', 'enrollment', 'month', 'pincode', 'state', 'total_biometric_age', 'total_enrollment_age', 'year']

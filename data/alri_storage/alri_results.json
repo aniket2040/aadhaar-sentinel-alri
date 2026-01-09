@@ -1,0 +1,920 @@
+[
+  {
+    "district": "spsr nellore",
+    "state": "andhra pradesh",
+    "alri_score": 46.14401078830607,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.11440107883060734
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:34.691536"
+  },
+  {
+    "district": "visakhapatanam",
+    "state": "andhra pradesh",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:34.766649"
+  },
+  {
+    "district": "sivasagar",
+    "state": "assam",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:35.825402"
+  },
+  {
+    "district": "near university thana",
+    "state": "bihar",
+    "alri_score": 30.42000000000001,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.013999999999999999,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:36.469502"
+  },
+  {
+    "district": "purbi champaran",
+    "state": "bihar",
+    "alri_score": 46.170732264477124,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.11707322644771175
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:36.524071"
+  },
+  {
+    "district": "mohali",
+    "state": "chandigarh",
+    "alri_score": 30.210000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.006999999999999999,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:36.798292"
+  },
+  {
+    "district": "gaurella pendra marwahi",
+    "state": "chhattisgarh",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:37.039450"
+  },
+  {
+    "district": "tiswadi",
+    "state": "goa",
+    "alri_score": 45.63,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.020999999999999998,
+      "biometric": 1.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:37.828708"
+  },
+  {
+    "district": "dang",
+    "state": "gujarat",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:38.026714"
+  },
+  {
+    "district": "gurugram",
+    "state": "haryana",
+    "alri_score": 46.14401078830607,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.11440107883060734
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:38.464823"
+  },
+  {
+    "district": "nuh",
+    "state": "haryana",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:38.562910"
+  },
+  {
+    "district": "bandipur",
+    "state": "jammu and kashmir",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:38.880586"
+  },
+  {
+    "district": "rajauri",
+    "state": "jammu and kashmir",
+    "alri_score": 15.21,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.006999999999999999,
+      "biometric": 0.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:39.060706"
+  },
+  {
+    "district": "shopian",
+    "state": "jammu and kashmir",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:39.114706"
+  },
+  {
+    "district": "east singhbum",
+    "state": "jharkhand",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:39.233297"
+  },
+  {
+    "district": "bengaluru urban",
+    "state": "karnataka",
+    "alri_score": 46.16818837637059,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.1168188376370583
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:39.667229"
+  },
+  {
+    "district": "bijapurkar",
+    "state": "karnataka",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:39.694736"
+  },
+  {
+    "district": "ramanagara",
+    "state": "karnataka",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:40.003407"
+  },
+  {
+    "district": "th cross",
+    "state": "karnataka",
+    "alri_score": 30.210000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.006999999999999999,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:40.032055"
+  },
+  {
+    "district": "ashoknagar",
+    "state": "madhya pradesh",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:40.417642"
+  },
+  {
+    "district": "ahilyanagar",
+    "state": "maharashtra",
+    "alri_score": 51.000000000000014,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.7,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:41.114451"
+  },
+  {
+    "district": "ahmednagar",
+    "state": "maharashtra",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:41.142461"
+  },
+  {
+    "district": "dist  thane",
+    "state": "maharashtra",
+    "alri_score": 30.210000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.006999999999999999,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:41.304885"
+  },
+  {
+    "district": "kamrup",
+    "state": "meghalaya",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:41.903942"
+  },
+  {
+    "district": "balianta",
+    "state": "odisha",
+    "alri_score": 30.210000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.006999999999999999,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:42.534924"
+  },
+  {
+    "district": "nabarangpur",
+    "state": "odisha",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:42.878878"
+  },
+  {
+    "district": "cuddalore",
+    "state": "puducherry",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:42.997950"
+  },
+  {
+    "district": "viluppuram",
+    "state": "puducherry",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.040856"
+  },
+  {
+    "district": "sas nagar",
+    "state": "punjab",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.333488"
+  },
+  {
+    "district": "balotra",
+    "state": "rajasthan",
+    "alri_score": 48.06000000000001,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.602,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.436498"
+  },
+  {
+    "district": "beawar",
+    "state": "rajasthan",
+    "alri_score": 51.000000000000014,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.7,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.484523"
+  },
+  {
+    "district": "didwanakuchaman",
+    "state": "rajasthan",
+    "alri_score": 51.000000000000014,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.7,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.641863"
+  },
+  {
+    "district": "khairthaltijara",
+    "state": "rajasthan",
+    "alri_score": 51.000000000000014,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.7,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.802214"
+  },
+  {
+    "district": "kotputlibehror",
+    "state": "rajasthan",
+    "alri_score": 49.95,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.6649999999999999,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.819270"
+  },
+  {
+    "district": "phalodi",
+    "state": "rajasthan",
+    "alri_score": 41.760000000000005,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.392,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.845699"
+  },
+  {
+    "district": "salumbar",
+    "state": "rajasthan",
+    "alri_score": 48.69992107375597,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5842092107458629,
+      "biometric": 0.5,
+      "anomaly": 0.11736447513800767
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:43.875002"
+  },
+  {
+    "district": "tiruvarur",
+    "state": "tamil nadu",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:44.578558"
+  },
+  {
+    "district": "tuticorin",
+    "state": "tamil nadu",
+    "alri_score": 15.000000000000002,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Child_Enrolment",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:44.583558"
+  },
+  {
+    "district": "medchal malkajgiri",
+    "state": "telangana",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:44.874303"
+  },
+  {
+    "district": "ranga reddy",
+    "state": "telangana",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:44.998738"
+  },
+  {
+    "district": "bagpat",
+    "state": "uttar pradesh",
+    "alri_score": 45.63,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.020999999999999998,
+      "biometric": 1.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:45.369345"
+  },
+  {
+    "district": "kushi nagar",
+    "state": "uttar pradesh",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:45.898818"
+  },
+  {
+    "district": "shravasti",
+    "state": "uttar pradesh",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.234395"
+  },
+  {
+    "district": "siddharth nagar",
+    "state": "uttar pradesh",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.251903"
+  },
+  {
+    "district": "coochbehar",
+    "state": "west bengal",
+    "alri_score": 46.17851130197758,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.1178511301977579
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.609809"
+  },
+  {
+    "district": "dinajpur dakshin",
+    "state": "west bengal",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.650171"
+  },
+  {
+    "district": "dinajpur uttar",
+    "state": "west bengal",
+    "alri_score": 46.14401078830607,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.11440107883060734
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.654180"
+  },
+  {
+    "district": "domjur",
+    "state": "west bengal",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.0,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.658192"
+  },
+  {
+    "district": "medinipur west",
+    "state": "west bengal",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.867447"
+  },
+  {
+    "district": "paraganas north",
+    "state": "west bengal",
+    "alri_score": 45.0,
+    "sub_scores": {
+      "coverage": 0.5,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "Low_Child_Enrolment",
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.935481"
+  },
+  {
+    "district": "paraganas south",
+    "state": "west bengal",
+    "alri_score": 30.000000000000004,
+    "sub_scores": {
+      "coverage": 0.0,
+      "instability": 0.5,
+      "biometric": 0.5,
+      "anomaly": 0.0
+    },
+    "reason_codes": [
+      "High_Address_Churn",
+      "Low_Biometric_Update_5to15",
+      "Low_Child_Enrolment",
+      "Anomalous_Data_Entry"
+    ],
+    "computed_at": "2026-01-10T02:58:46.940489"
+  }
+]

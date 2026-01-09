@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\storage\serializer.py
+# hypothesis_version: 6.150.0
+
+[1e-09, 'alri_score', 'computed_at', 'data/alri_storage', 'district', 'r', 'reason_codes', 'state', 'sub_scores', 'utf-8', 'w']

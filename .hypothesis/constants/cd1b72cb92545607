@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\scoring\alri_calculator.py
+# hypothesis_version: 6.150.0
+
+[-0.3, 0.0, 0.1, 0.2, 0.3, 0.5, 0.7, 1.0, 6.0, 100.0, 1000.0, 100, 1000, 'actual_updates', 'alri_score', 'anomaly_factor', 'baseline', 'baseline_enrollment', 'biometric_risk', 'biometric_updates', 'compliance_rate', 'computed', 'coverage_risk', 'current_enrollment', 'decline_factor', 'decline_penalty', 'demographic_updates', 'details', 'district', 'empty_data', 'enrollment', 'enrollment_rate', 'expected_updates', 'instability_risk', 'no_biometric_column', 'no_enrollment_column', 'no_numeric_columns', 'provided', 'rate_risk', 'result', 'source', 'state', 'status', 'step', 'threshold_penalty', 'timestamp', 'total_biometric_age', 'total_enrollment_age', 'total_enrollments', 'total_updates', 'unknown', 'update_rate_per_1000', 'volatility', 'volatility_risk', 'weight_total', 'weighted_sum']

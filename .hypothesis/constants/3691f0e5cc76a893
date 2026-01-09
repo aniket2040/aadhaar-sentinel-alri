@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\etl\imputer.py
+# hypothesis_version: 6.150.0
+
+['column', 'imputed_value', 'mean', 'median', 'original_value', 'row_index', 'strategy', 'timestamp', 'zero']

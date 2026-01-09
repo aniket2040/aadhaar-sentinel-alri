@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\recommendations\engine.py
+# hypothesis_version: 6.150.0
+
+[500, 1000, 2000, 3000, 4000, 5000, 6000, 8000, 10000, 'Anomalous_Data_Entry', 'Data Quality Audit', 'Free Biometric Camp', 'High', 'High_Address_Churn', 'Low', 'Low_Child_Enrolment', 'Medium', 'Operator Training', 'SMS/IVR Campaign']

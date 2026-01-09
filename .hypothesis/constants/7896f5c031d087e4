@@ -1,0 +1,4 @@
+# file: C:\UIDAI\aadhaar-sentinel-alri\src\anomaly\detector.py
+# hypothesis_version: 6.150.0
+
+[0.0, 0.3, 0.4, 0.5, 1.0, 1.5, 3.0, 'drop', 'normal', 'spike']
